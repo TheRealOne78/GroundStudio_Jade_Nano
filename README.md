@@ -2,9 +2,9 @@ GroundStudio Jade Nano
 ====================================
 [![Nano cropat la 150 h](https://user-images.githubusercontent.com/77836107/186915967-621bfe71-98eb-468e-8b92-4bcb1a5b485d.png)](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/development-boards/1179-groundstudio-jade-n1-6427854016737.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
